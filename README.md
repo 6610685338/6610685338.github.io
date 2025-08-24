@@ -1,1 +1,6 @@
-# 6610685338.github.io
+
+Name :Supakit Aussawawutthiroj
+Faculty of Engineering ,Computer Engineering
+MyHobby : Badminton, Playing games, Wakeboarding
+MyEmail :supakit.aussa@gmail.com
+Markdown![alt text](image.png)
